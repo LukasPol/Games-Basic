@@ -1,0 +1,1 @@
+obj = ['pedra', 'papel', 'tesoura']
